@@ -1,0 +1,6 @@
+
+AuthName "optima"
+AuthType Basic
+AuthUserFile /home/boincadm/projects/optima//html/ops/.htpasswd
+require valid-user
+

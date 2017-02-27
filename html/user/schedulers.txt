@@ -1,0 +1,2 @@
+<!-- <scheduler>http://dmtsharp.ru/optima_cgi/cgi</scheduler> -->
+<link rel="boinc_scheduler" href="http://dmtsharp.ru/optima_cgi/cgi">

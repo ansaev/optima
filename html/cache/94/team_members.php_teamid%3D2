@@ -1,0 +1,14 @@
+O:9:"BoincTeam":19:{s:2:"id";s:1:"2";s:11:"create_time";s:10:"1486928314";s:6:"userid";s:1:"5";s:4:"name";s:12:"SETI.Germany";s:7:"name_lc";s:12:"seti.germany";s:3:"url";s:19:"www.seti-germany.de";s:4:"type";s:1:"1";s:9:"name_html";s:153:"<a href="https://www.seti-germany.de" target="_blank"><img src='https://www.seti-germany.de/sgwiki/images/a/a5/SG-Banner_official.png' alt='image' /></a>";s:11:"description";s:1569:"SETI.Germany ist das groesste deutsche Team beim wissenschaftlichen Projekt SETI@home, der Suche nach ausserirdischer Intelligenz, durchgefuehrt an der Universitaet von Kalifornien, Berkeley. <br>
+<br>
+Neben Seti@home ist unser Team nun auch bei vielen anderen Projekten des Public Distributed Computing (Oeffentliches Verteiltes Rechnen) unter dem Namen SETI.Germany vertreten.
+Die Themen der Projekte reichen von Astrophysik und Molekularbiologie ueber Chemie, Mathematik, Medizin, Rendering, Verschluesselung bis zu angewandter Informatik. <br>
+<br>
+Auf unserer <a href="https://www.seti-germany.de/"> Webseite</a> bieten wir weiterfuehrende Informationen zu diesen Projekten u.a. in einem grossen <a href="https://www.seti-germany.de/forum"> Forensystem</a>. Das Angebot fuer unsere Mitglieder und Gaeste umfasst ausserdem eine grosse <a href="https://www.seti-germany.de/wiki"> Wiki</a>, wo die meisten Projekte aufgefuehrt und beschrieben sind, verschiedene Events rund um die BOINC-Projekte und mehr...<br>
+<br>
+Weiterhin helfen wir dabei, die SETI@home Berechnung auf deinem PC zu optimieren, wodurch eine Beschleunigung der Berechnung von bis zu 40% moeglich wird. <br>
+Schau doch mal bei uns vorbei, wir helfen gerne weiter... <br><br>
+Folge uns bei <a href="https://twitter.com/SETIGermany"> Twitter</a> oder schau auf unserer <a href="https://www.facebook.com/pages/SETIGermany/177588328907"> Facebook-Seite </a> vorbei.
+<br><br>
+In diesen Projekten ist SETI.Germany aktiv:
+<br><br>
+<img src="http://boincstats.com/signature/-1/team/4/sig.png">";s:6:"nusers";s:1:"0";s:7:"country";s:7:"Germany";s:12:"total_credit";s:1:"0";s:13:"expavg_credit";s:1:"0";s:11:"expavg_time";s:10:"1486928314";s:7:"seti_id";s:1:"0";s:9:"ping_user";s:1:"0";s:9:"ping_time";s:1:"0";s:8:"joinable";s:1:"1";s:8:"mod_time";s:19:"2017-02-12 22:38:34";}
